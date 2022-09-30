@@ -11,4 +11,13 @@ package ex03truthramos;
  */
 public class ownClass {
     
+    public ownClass () {
+        
+    }
+    
+/*
+*Create your own Java class (you may use as a basis the one represented by data in 
+*Exercise 01) with at least one constructor, and create three instances of that 
+*class in the main method.
+*/
 }
